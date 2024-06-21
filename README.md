@@ -22,7 +22,7 @@ This repository contains code and resources for various aircraft detection model
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/aircraft-detection.git
+    git clone https://github.com/notmaineyy/aircraft-detection.git
     ```
 2. Navigate to the project directory:
     ```bash
